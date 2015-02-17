@@ -1,4 +1,5 @@
 require 'twitter_ebooks'
+require 'dotenv'
 
 # Information about a particular Twitter user we know
 class UserInfo
@@ -19,9 +20,9 @@ class CloneBot < Ebooks::Bot
 
   def configure
     # Configuration for all CloneBots
-    self.consumer_key = ""
-    self.consumer_secret = ""
-    self.blacklist = ['kylelehk', 'friedrichsays', 'Sudieofna', 'tnietzschequote', 'NerdsOnPeriod', 'FSR', 'BafflingQuotes', 'Obey_Nxme']
+    self.consumer_key = ENV["CONSUMER_KEY"]
+    self.consumer_secret = ENV["CONSUMER_SECRET"]
+    self.blacklist = []
     self.delay_range = 1..6
     @userinfo = {}
   end
@@ -128,9 +129,9 @@ class CloneBot < Ebooks::Bot
   end
 end
 
-CloneBot.new("abby_ebooks") do |bot|
-  bot.access_token = ""
-  bot.access_token_secret = ""
+CloneBot.new("iangreenbooks") do |bot|
+  bot.access_token = ENV["ACCESS_TOKEN_iangreenbooks"]
+  bot.access_token_secret = ENV["ACCESS_SECRET_iangreenbooks"]
 
-  bot.original = "0xabad1dea"
+  bot.original = "iangreenleaf"
 end

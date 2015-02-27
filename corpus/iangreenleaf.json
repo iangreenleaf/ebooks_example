@@ -1,5 +1,2341 @@
 [
   {
+    "created_at": "Fri Feb 27 05:23:16 +0000 2015",
+    "id": 571178733962289153,
+    "id_str": "571178733962289153",
+    "text": "RT @section_sign: I fixed the color balance of that shitty dress photo. NEXT ISSUE. http://t.co/MC0ypCSz4Y",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 27 03:26:55 +0000 2015",
+      "id": 571149452016095233,
+      "id_str": "571149452016095233",
+      "text": "I fixed the color balance of that shitty dress photo. NEXT ISSUE. http://t.co/MC0ypCSz4Y",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 215272354,
+        "id_str": "215272354"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 7,
+      "favorite_count": 20,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 571149439106043905,
+            "id_str": "571149439106043905",
+            "indices": [
+              66,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-0hY4eUUAEb3g_.png",
+            "media_url_https": "https://pbs.twimg.com/media/B-0hY4eUUAEb3g_.png",
+            "url": "http://t.co/MC0ypCSz4Y",
+            "display_url": "pic.twitter.com/MC0ypCSz4Y",
+            "expanded_url": "http://twitter.com/section_sign/status/571149452016095233/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 250,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 442,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 751,
+                "h": 554,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 571149439106043905,
+            "id_str": "571149439106043905",
+            "indices": [
+              66,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-0hY4eUUAEb3g_.png",
+            "media_url_https": "https://pbs.twimg.com/media/B-0hY4eUUAEb3g_.png",
+            "url": "http://t.co/MC0ypCSz4Y",
+            "display_url": "pic.twitter.com/MC0ypCSz4Y",
+            "expanded_url": "http://twitter.com/section_sign/status/571149452016095233/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 250,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 442,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 751,
+                "h": 554,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 571149439106043905,
+          "id_str": "571149439106043905",
+          "indices": [
+            105,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-0hY4eUUAEb3g_.png",
+          "media_url_https": "https://pbs.twimg.com/media/B-0hY4eUUAEb3g_.png",
+          "url": "http://t.co/MC0ypCSz4Y",
+          "display_url": "pic.twitter.com/MC0ypCSz4Y",
+          "expanded_url": "http://twitter.com/section_sign/status/571149452016095233/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 250,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 442,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 751,
+              "h": 554,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 571149452016095233,
+          "source_status_id_str": "571149452016095233",
+          "source_user_id": 215272354,
+          "source_user_id_str": "215272354"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 27 05:22:56 +0000 2015",
+    "id": 571178648113258496,
+    "id_str": "571178648113258496",
+    "text": "RT @section_sign: Deciding what color things are by committee is a microcosm of democracy. This has been a thinkpiece.",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 27 02:55:23 +0000 2015",
+      "id": 571141514962673664,
+      "id_str": "571141514962673664",
+      "text": "Deciding what color things are by committee is a microcosm of democracy. This has been a thinkpiece.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 215272354,
+        "id_str": "215272354"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 27 05:16:55 +0000 2015",
+    "id": 571177136221868032,
+    "id_str": "571177136221868032",
+    "text": "RT @hopefulcyborg: ☎️📠📟📻💾💽📼\n\nRIP",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 27 00:45:14 +0000 2015",
+      "id": 571108763920310272,
+      "id_str": "571108763920310272",
+      "text": "☎️📠📟📻💾💽📼\n\nRIP",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 58708498,
+        "id_str": "58708498"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00c68687676b186d",
+        "url": "https://api.twitter.com/1.1/geo/id/00c68687676b186d.json",
+        "place_type": "neighborhood",
+        "name": "Downtown",
+        "full_name": "Downtown, Vancouver",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -123.140534,
+                49.270531
+              ],
+              [
+                -123.098819,
+                49.270531
+              ],
+              [
+                -123.098819,
+                49.295357
+              ],
+              [
+                -123.140534,
+                49.295357
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "retweet_count": 20,
+      "favorite_count": 31,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Fri Feb 27 02:42:33 +0000 2015",
+    "id": 571138288083283968,
+    "id_str": "571138288083283968",
+    "text": "@section_sign Thank goodness for Plans, otherwise I would have to turn to Tumblr for a place to express long-form thought.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 571137834377031680,
+    "in_reply_to_status_id_str": "571137834377031680",
+    "in_reply_to_user_id": 215272354,
+    "in_reply_to_user_id_str": "215272354",
+    "in_reply_to_screen_name": "section_sign",
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 27 02:40:51 +0000 2015",
+    "id": 571137861199663104,
+    "id_str": "571137861199663104",
+    "text": "Twitter makes it very easy to express snark and absolutism. It makes it very hard to express nuance. And that's no good.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 571137376971395072,
+    "in_reply_to_status_id_str": "571137376971395072",
+    "in_reply_to_user_id": 17431155,
+    "in_reply_to_user_id_str": "17431155",
+    "in_reply_to_screen_name": "iangreenleaf",
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 27 02:38:56 +0000 2015",
+    "id": 571137376971395072,
+    "id_str": "571137376971395072",
+    "text": "At first I enjoyed the Twitter format because it demands brevity. You MUST omit needless words. But it also limits what can be said here.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 571136965682163712,
+    "in_reply_to_status_id_str": "571136965682163712",
+    "in_reply_to_user_id": 17431155,
+    "in_reply_to_user_id_str": "17431155",
+    "in_reply_to_screen_name": "iangreenleaf",
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 27 02:37:18 +0000 2015",
+    "id": 571136965682163712,
+    "id_str": "571136965682163712",
+    "text": "And sure it's nice that I can hack the reply mechanism to pseudo-thread these into some sort of order, but it's a far cry from coherent.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 571136601469755392,
+    "in_reply_to_status_id_str": "571136601469755392",
+    "in_reply_to_user_id": 17431155,
+    "in_reply_to_user_id_str": "17431155",
+    "in_reply_to_screen_name": "iangreenleaf",
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 27 02:35:51 +0000 2015",
+    "id": 571136601469755392,
+    "id_str": "571136601469755392",
+    "text": "I've been noticing that less and less of my Twitter activity is individual tweets, and more is strings of tweets kludged together.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 571136412940050432,
+    "in_reply_to_status_id_str": "571136412940050432",
+    "in_reply_to_user_id": 17431155,
+    "in_reply_to_user_id_str": "17431155",
+    "in_reply_to_screen_name": "iangreenleaf",
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 27 02:35:06 +0000 2015",
+    "id": 571136412940050432,
+    "id_str": "571136412940050432",
+    "text": "Really digging this: http://t.co/d4ikCzFzsp. Feeling lately for a lot of these reasons that Twitter is thoroughly insufficient for discourse",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 26 20:05:09 +0000 2015",
+    "id": 571038276384985088,
+    "id_str": "571038276384985088",
+    "text": "RT @izs: It's nice to see @Verizon openly and creatively embracing their role as dystopian fear-mongering propagandists\nhttp://t.co/LSBi1uE…",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 26 19:59:26 +0000 2015",
+      "id": 571036840490196992,
+      "id_str": "571036840490196992",
+      "text": "It's nice to see @Verizon openly and creatively embracing their role as dystopian fear-mongering propagandists\nhttp://t.co/LSBi1uE0iI",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 8038312,
+        "id_str": "8038312"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 17,
+      "favorite_count": 16,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Verizon",
+            "name": "Verizon",
+            "id": 59602642,
+            "id_str": "59602642",
+            "indices": [
+              17,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/LSBi1uE0iI",
+            "expanded_url": "http://publicpolicy.verizon.com/blog/entry/fccs-throwback-thursday-move-imposes-1930s-rules-on-the-internet",
+            "display_url": "publicpolicy.verizon.com/blog/entry/fcc…",
+            "indices": [
+              111,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 26 07:57:36 +0000 2015",
+    "id": 570855182952607744,
+    "id_str": "570855182952607744",
+    "text": "RT @coda: I may be sick, Sir, but in the morning I will be well and you will still be a feverish dream about geometry and spiders",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 25 21:35:22 +0000 2015",
+      "id": 570698595365572608,
+      "id_str": "570698595365572608",
+      "text": "I may be sick, Sir, but in the morning I will be well and you will still be a feverish dream about geometry and spiders",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 637533,
+        "id_str": "637533"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 2,
+      "favorite_count": 17,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 26 07:55:10 +0000 2015",
+    "id": 570854570772967425,
+    "id_str": "570854570772967425",
+    "text": "RT @charliejane: OMG this is still online! The time a SF newspaper asked all the mayor candidates Voight-Kampff questions #BladeRunner http…",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 23 00:18:08 +0000 2015",
+      "id": 569652392771235841,
+      "id_str": "569652392771235841",
+      "text": "OMG this is still online! The time a SF newspaper asked all the mayor candidates Voight-Kampff questions #BladeRunner http://t.co/bz3iRkJhq1",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16356796,
+        "id_str": "16356796"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 160,
+      "favorite_count": 142,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "BladeRunner",
+            "indices": [
+              105,
+              117
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/bz3iRkJhq1",
+            "expanded_url": "http://www.onlisareinsradar.com/archives/001698.php",
+            "display_url": "onlisareinsradar.com/archives/00169…",
+            "indices": [
+              118,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 160,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 25 20:15:28 +0000 2015",
+    "id": 570678486450483202,
+    "id_str": "570678486450483202",
+    "text": "RT @reedfrich: To prove Snowden leaks hurt nat'l sec'y, DIA released 100+ docs just like this one. #notajoke\nhttps://t.co/zCWR7y1Cec http:/…",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 25 18:04:31 +0000 2015",
+      "id": 570645532386971649,
+      "id_str": "570645532386971649",
+      "text": "To prove Snowden leaks hurt nat'l sec'y, DIA released 100+ docs just like this one. #notajoke\nhttps://t.co/zCWR7y1Cec http://t.co/MDAUk65vfc",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 963176808,
+        "id_str": "963176808"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 415,
+      "favorite_count": 192,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "notajoke",
+            "indices": [
+              84,
+              93
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zCWR7y1Cec",
+            "expanded_url": "https://news.vice.com/article/official-reports-on-the-damage-caused-by-edward-snowdens-leaks-are-totally-redacted",
+            "display_url": "news.vice.com/article/offici…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 570645531103502336,
+            "id_str": "570645531103502336",
+            "indices": [
+              118,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-tXFk4WoAAPjMq.png",
+            "media_url_https": "https://pbs.twimg.com/media/B-tXFk4WoAAPjMq.png",
+            "url": "http://t.co/MDAUk65vfc",
+            "display_url": "pic.twitter.com/MDAUk65vfc",
+            "expanded_url": "http://twitter.com/reedfrich/status/570645532386971649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 391,
+                "h": 504,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 391,
+                "h": 504,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 438,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 570645531103502336,
+            "id_str": "570645531103502336",
+            "indices": [
+              118,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-tXFk4WoAAPjMq.png",
+            "media_url_https": "https://pbs.twimg.com/media/B-tXFk4WoAAPjMq.png",
+            "url": "http://t.co/MDAUk65vfc",
+            "display_url": "pic.twitter.com/MDAUk65vfc",
+            "expanded_url": "http://twitter.com/reedfrich/status/570645532386971649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 391,
+                "h": 504,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 391,
+                "h": 504,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 438,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 415,
+    "favorite_count": 0,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 570645531103502336,
+          "id_str": "570645531103502336",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-tXFk4WoAAPjMq.png",
+          "media_url_https": "https://pbs.twimg.com/media/B-tXFk4WoAAPjMq.png",
+          "url": "http://t.co/MDAUk65vfc",
+          "display_url": "pic.twitter.com/MDAUk65vfc",
+          "expanded_url": "http://twitter.com/reedfrich/status/570645532386971649/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 391,
+              "h": 504,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 391,
+              "h": 504,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 438,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 570645532386971649,
+          "source_status_id_str": "570645532386971649",
+          "source_user_id": 963176808,
+          "source_user_id_str": "963176808"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 25 20:11:17 +0000 2015",
+    "id": 570677435676692483,
+    "id_str": "570677435676692483",
+    "text": "RT @headhntr: In the latest installment of political leaders saying we need a 'middle ground on encryption' -- Hilary Clinton  http://t.co/…",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 25 19:17:47 +0000 2015",
+      "id": 570663968856875009,
+      "id_str": "570663968856875009",
+      "text": "In the latest installment of political leaders saying we need a 'middle ground on encryption' -- Hilary Clinton  http://t.co/f5MjAjp4EE",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 22404415,
+        "id_str": "22404415"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 42,
+      "favorite_count": 16,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/f5MjAjp4EE",
+            "expanded_url": "http://www.washingtonpost.com/blogs/the-switch/wp/2015/02/25/clinton-is-looking-for-a-middle-ground-on-encryption-that-experts-say-doesnt-exist/",
+            "display_url": "washingtonpost.com/blogs/the-swit…",
+            "indices": [
+              113,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 25 17:27:20 +0000 2015",
+    "id": 570636172134780928,
+    "id_str": "570636172134780928",
+    "text": "RT @csoghoian: Canadian intelligence agency use My Little Pony graphic in classified slide deck. Yep. Brony spies. http://t.co/Onke30KMSI",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 25 17:03:02 +0000 2015",
+      "id": 570630057561088000,
+      "id_str": "570630057561088000",
+      "text": "Canadian intelligence agency use My Little Pony graphic in classified slide deck. Yep. Brony spies. http://t.co/Onke30KMSI",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14669471,
+        "id_str": "14669471"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 379,
+      "favorite_count": 208,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 570630057133260801,
+            "id_str": "570630057133260801",
+            "indices": [
+              100,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-tJA32WwAEz5kd.png",
+            "media_url_https": "https://pbs.twimg.com/media/B-tJA32WwAEz5kd.png",
+            "url": "http://t.co/Onke30KMSI",
+            "display_url": "pic.twitter.com/Onke30KMSI",
+            "expanded_url": "http://twitter.com/csoghoian/status/570630057561088000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 263,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 464,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 707,
+                "h": 547,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 570630057133260801,
+            "id_str": "570630057133260801",
+            "indices": [
+              100,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-tJA32WwAEz5kd.png",
+            "media_url_https": "https://pbs.twimg.com/media/B-tJA32WwAEz5kd.png",
+            "url": "http://t.co/Onke30KMSI",
+            "display_url": "pic.twitter.com/Onke30KMSI",
+            "expanded_url": "http://twitter.com/csoghoian/status/570630057561088000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 263,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 464,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 707,
+                "h": 547,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 379,
+    "favorite_count": 0,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 570630057133260801,
+          "id_str": "570630057133260801",
+          "indices": [
+            136,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-tJA32WwAEz5kd.png",
+          "media_url_https": "https://pbs.twimg.com/media/B-tJA32WwAEz5kd.png",
+          "url": "http://t.co/Onke30KMSI",
+          "display_url": "pic.twitter.com/Onke30KMSI",
+          "expanded_url": "http://twitter.com/csoghoian/status/570630057561088000/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 263,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 464,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 707,
+              "h": 547,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 570630057561088000,
+          "source_status_id_str": "570630057561088000",
+          "source_user_id": 14669471,
+          "source_user_id_str": "14669471"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 25 05:32:27 +0000 2015",
+    "id": 570456268088987648,
+    "id_str": "570456268088987648",
+    "text": "RT @mcclure111: The sense that everyone who revels in cruelty is starting to realize they have a common ground, and the pretenses for the c…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 25 04:02:56 +0000 2015",
+      "id": 570433739060195328,
+      "id_str": "570433739060195328",
+      "text": "The sense that everyone who revels in cruelty is starting to realize they have a common ground, and the pretenses for the cruelty irrelevant",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 312426579,
+        "id_str": "312426579"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 16,
+      "favorite_count": 17,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 25 05:23:45 +0000 2015",
+    "id": 570454079748485120,
+    "id_str": "570454079748485120",
+    "text": "That's @ggreenwald being right, as usual. And incredibly depressing, as usual.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 570453922025857024,
+    "in_reply_to_status_id_str": "570453922025857024",
+    "in_reply_to_user_id": 17431155,
+    "in_reply_to_user_id_str": "17431155",
+    "in_reply_to_screen_name": "iangreenleaf",
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 25 05:23:08 +0000 2015",
+    "id": 570453922025857024,
+    "id_str": "570453922025857024",
+    "text": "\"[Hillary Clinton is] the ultimate guardian of bipartisan status quo… no debate will happen if she's the nominee…\" https://t.co/ZPXZBSvraR",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 25 01:57:43 +0000 2015",
+    "id": 570402229468803072,
+    "id_str": "570402229468803072",
+    "text": "Modern Rockwell painting: http://t.co/qsHsyoJTKC\n\nA little too real.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 23 07:34:13 +0000 2015",
+    "id": 569762137091874816,
+    "id_str": "569762137091874816",
+    "text": "Didn't watch the Oscars. Why would I when I have this?\n\nhttp://t.co/8olhrOlFrr",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 23 01:28:08 +0000 2015",
+    "id": 569670008881553409,
+    "id_str": "569670008881553409",
+    "text": "RT @SavedYouAClick: Some movies are better than other movies, according to some people.",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 23 00:39:23 +0000 2015",
+      "id": 569657739980496896,
+      "id_str": "569657739980496896",
+      "text": "Some movies are better than other movies, according to some people.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2480079168,
+        "id_str": "2480079168"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 712,
+      "favorite_count": 538,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 712,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 20 21:25:26 +0000 2015",
+    "id": 568884154613395457,
+    "id_str": "568884154613395457",
+    "text": "@iangreenbooks @rbondev I feel like that answers THAT question",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 568877996490276864,
+    "in_reply_to_status_id_str": "568877996490276864",
+    "in_reply_to_user_id": 3024429541,
+    "in_reply_to_user_id_str": "3024429541",
+    "in_reply_to_screen_name": "iangreenbooks",
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 20 20:39:28 +0000 2015",
+    "id": 568872588895653888,
+    "id_str": "568872588895653888",
+    "text": "RT @iangreenbooks: Why can't we have nothing at all in common.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 20 01:00:00 +0000 2015",
+      "id": 568575765484331008,
+      "id_str": "568575765484331008",
+      "text": "Why can't we have nothing at all in common.",
+      "source": "<a href=\"http://www.iangreenleaf.com\" rel=\"nofollow\">iangreenbooks</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3024429541,
+        "id_str": "3024429541"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 20 16:22:39 +0000 2015",
+    "id": 568807957686673408,
+    "id_str": "568807957686673408",
+    "text": "RT @chris_steller: ICYMI an evolving Bingo card of things the New York Times says when they write about Minnesota. Suggestion box open. htt…",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 20 13:38:40 +0000 2015",
+      "id": 568766689057177601,
+      "id_str": "568766689057177601",
+      "text": "ICYMI an evolving Bingo card of things the New York Times says when they write about Minnesota. Suggestion box open. http://t.co/pDEbs1SLvD",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 568635970284687360,
+      "in_reply_to_status_id_str": "568635970284687360",
+      "in_reply_to_user_id": 14812037,
+      "in_reply_to_user_id_str": "14812037",
+      "in_reply_to_screen_name": "chris_steller",
+      "user": {
+        "id": 14812037,
+        "id_str": "14812037"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 13,
+      "favorite_count": 15,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 568766688267489280,
+            "id_str": "568766688267489280",
+            "indices": [
+              117,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-SqSh5CUAAlRUo.png",
+            "media_url_https": "https://pbs.twimg.com/media/B-SqSh5CUAAlRUo.png",
+            "url": "http://t.co/pDEbs1SLvD",
+            "display_url": "pic.twitter.com/pDEbs1SLvD",
+            "expanded_url": "http://twitter.com/chris_steller/status/568766689057177601/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 698,
+                "h": 653,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 561,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 318,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 568766688267489280,
+            "id_str": "568766688267489280",
+            "indices": [
+              117,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-SqSh5CUAAlRUo.png",
+            "media_url_https": "https://pbs.twimg.com/media/B-SqSh5CUAAlRUo.png",
+            "url": "http://t.co/pDEbs1SLvD",
+            "display_url": "pic.twitter.com/pDEbs1SLvD",
+            "expanded_url": "http://twitter.com/chris_steller/status/568766689057177601/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 698,
+                "h": 653,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 561,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 318,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 568766688267489280,
+          "id_str": "568766688267489280",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-SqSh5CUAAlRUo.png",
+          "media_url_https": "https://pbs.twimg.com/media/B-SqSh5CUAAlRUo.png",
+          "url": "http://t.co/pDEbs1SLvD",
+          "display_url": "pic.twitter.com/pDEbs1SLvD",
+          "expanded_url": "http://twitter.com/chris_steller/status/568766689057177601/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 698,
+              "h": 653,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 561,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 318,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 568766689057177601,
+          "source_status_id_str": "568766689057177601",
+          "source_user_id": 14812037,
+          "source_user_id_str": "14812037"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 20 07:51:17 +0000 2015",
+    "id": 568679266730143744,
+    "id_str": "568679266730143744",
+    "text": "With the Snowden leaks, the hits just do. not. stop. coming.",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 20 07:49:58 +0000 2015",
+    "id": 568678933865963520,
+    "id_str": "568678933865963520",
+    "text": "RT @the_intercept: Exclusive: American, British spies hacked into world's largest manufacturer of SIM cards, stealing encryption keys. http…",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 19 19:27:18 +0000 2015",
+      "id": 568492038997606400,
+      "id_str": "568492038997606400",
+      "text": "Exclusive: American, British spies hacked into world's largest manufacturer of SIM cards, stealing encryption keys. http://t.co/kIlf6dAuPY",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2329066872,
+        "id_str": "2329066872"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 619,
+      "favorite_count": 158,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/kIlf6dAuPY",
+            "expanded_url": "http://interc.pt/1COE51C",
+            "display_url": "interc.pt/1COE51C",
+            "indices": [
+              116,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 619,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 18 07:50:43 +0000 2015",
+    "id": 567954348958818304,
+    "id_str": "567954348958818304",
+    "text": "@ArturoVM this is... probably my fault.\n\n...oops?",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 567951954829131777,
+    "in_reply_to_status_id_str": "567951954829131777",
+    "in_reply_to_user_id": 62952820,
+    "in_reply_to_user_id_str": "62952820",
+    "in_reply_to_screen_name": "ArturoVM",
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 18 07:48:25 +0000 2015",
+    "id": 567953768601399296,
+    "id_str": "567953768601399296",
+    "text": "RT @littlecalculist: The web matters because nobody owns it. We don't have to write open letters asking for more of a share of our apps. ht…",
+    "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 18 06:58:10 +0000 2015",
+      "id": 567941123924078592,
+      "id_str": "567941123924078592",
+      "text": "The web matters because nobody owns it. We don't have to write open letters asking for more of a share of our apps. http://t.co/jo1koVrQqs",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 104245499,
+        "id_str": "104245499"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 100,
+      "favorite_count": 69,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/jo1koVrQqs",
+            "expanded_url": "http://blog.anylistapp.com/2015/02/open-letter-to-tim-cook-regarding-app-store-revenue-split/",
+            "display_url": "blog.anylistapp.com/2015/02/open-l…",
+            "indices": [
+              116,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 100,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Feb 17 22:49:17 +0000 2015",
+    "id": 567818094585901056,
+    "id_str": "567818094585901056",
+    "text": "RT @beep: http://t.co/Tok6J4p3X5\n\noh good\n\ngreat even",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Feb 17 20:30:35 +0000 2015",
+      "id": 567783188228239361,
+      "id_str": "567783188228239361",
+      "text": "http://t.co/Tok6J4p3X5\n\noh good\n\ngreat even",
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12534,
+        "id_str": "12534"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 22,
+      "favorite_count": 9,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/Tok6J4p3X5",
+            "expanded_url": "http://www.ibtimes.com/nsa-has-planted-surveillance-software-deep-within-hard-drives-2001-kaspersky-1818398",
+            "display_url": "ibtimes.com/nsa-has-plante…",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Feb 17 22:46:50 +0000 2015",
+    "id": 567817477381496834,
+    "id_str": "567817477381496834",
+    "text": "RT @zunguzungu: 'TIS I! https://t.co/JhGFp9CMze",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Feb 17 22:38:20 +0000 2015",
+      "id": 567815336118059008,
+      "id_str": "567815336118059008",
+      "text": "'TIS I! https://t.co/JhGFp9CMze",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 47951511,
+        "id_str": "47951511"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 7,
+      "favorite_count": 19,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 567801651185324032,
+            "id_str": "567801651185324032",
+            "indices": [
+              8,
+              31
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/B-E8l-nIEAAzeVU.png",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/B-E8l-nIEAAzeVU.png",
+            "url": "https://t.co/JhGFp9CMze",
+            "display_url": "pic.twitter.com/JhGFp9CMze",
+            "expanded_url": "https://twitter.com/JJDodders/status/567801652519116800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 380,
+                "h": 364,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 380,
+                "h": 364,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 325,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 567801652519116800,
+            "source_status_id_str": "567801652519116800",
+            "source_user_id": 2171081688,
+            "source_user_id_str": "2171081688"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 567801651185324032,
+            "id_str": "567801651185324032",
+            "indices": [
+              8,
+              31
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/B-E8l-nIEAAzeVU.png",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/B-E8l-nIEAAzeVU.png",
+            "url": "https://t.co/JhGFp9CMze",
+            "display_url": "pic.twitter.com/JhGFp9CMze",
+            "expanded_url": "https://twitter.com/JJDodders/status/567801652519116800/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "medium": {
+                "w": 380,
+                "h": 364,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 380,
+                "h": 364,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 325,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 567801652519116800,
+            "source_status_id_str": "567801652519116800",
+            "source_user_id": 2171081688,
+            "source_user_id_str": "2171081688",
+            "video_info": {
+              "aspect_ratio": [
+                95,
+                91
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/B-E8l-nIEAAzeVU.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 567801651185324032,
+          "id_str": "567801651185324032",
+          "indices": [
+            46,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/B-E8l-nIEAAzeVU.png",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/B-E8l-nIEAAzeVU.png",
+          "url": "https://t.co/JhGFp9CMze",
+          "display_url": "pic.twitter.com/JhGFp9CMze",
+          "expanded_url": "https://twitter.com/JJDodders/status/567801652519116800/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "medium": {
+              "w": 380,
+              "h": 364,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 380,
+              "h": 364,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 325,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 567801652519116800,
+          "source_status_id_str": "567801652519116800",
+          "source_user_id": 2171081688,
+          "source_user_id_str": "2171081688",
+          "video_info": {
+            "aspect_ratio": [
+              95,
+              91
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://pbs.twimg.com/tweet_video/B-E8l-nIEAAzeVU.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Feb 17 22:44:19 +0000 2015",
+    "id": 567816842787491840,
+    "id_str": "567816842787491840",
+    "text": "@iangreenbooks the FUCK",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 567816619343499264,
+    "in_reply_to_status_id_str": "567816619343499264",
+    "in_reply_to_user_id": 3024429541,
+    "in_reply_to_user_id_str": "3024429541",
+    "in_reply_to_screen_name": "iangreenbooks",
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Feb 17 22:16:52 +0000 2015",
+    "id": 567809935943188480,
+    "id_str": "567809935943188480",
+    "text": "Taught my terminal to quote Nietzsche instead of the tired old default Linux fortunes. https://t.co/TAV2texSy0 http://t.co/4xtqV9ccN8",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17431155,
+      "id_str": "17431155"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 567809935459614720,
+          "id_str": "567809935459614720",
+          "indices": [
+            111,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-FEIL8CAAA0wGd.png",
+          "media_url_https": "https://pbs.twimg.com/media/B-FEIL8CAAA0wGd.png",
+          "url": "http://t.co/4xtqV9ccN8",
+          "display_url": "pic.twitter.com/4xtqV9ccN8",
+          "expanded_url": "http://twitter.com/iangreenleaf/status/567809935943188480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 659,
+              "h": 298,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 271,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 153,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue Feb 17 20:59:16 +0000 2015",
     "id": 567790407435739137,
     "id_str": "567790407435739137",

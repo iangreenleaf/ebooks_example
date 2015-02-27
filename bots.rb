@@ -37,6 +37,16 @@ class CloneBot < Ebooks::Bot
     scheduler.cron '0 10,17 * * * America/Los_Angeles' do
       tweet(model.make_statement)
     end
+
+    # Update the model daily with new tweets
+    scheduler.every '1d' do
+      log "Updating corpus and model"
+      corpus_path = File.join(".", "corpus", "#{@original}.json")
+      corpus_path = File.expand_path(corpus_path, File.dirname(__FILE__))
+      Ebooks::Archive.new(@original, corpus_path, twitter).sync
+      @model = Ebooks::Model.consume(corpus_path)
+      @model.save(@model_path)
+    end
   end
 
   def on_message(dm)

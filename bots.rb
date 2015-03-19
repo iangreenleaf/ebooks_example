@@ -34,7 +34,7 @@ class CloneBot < Ebooks::Bot
     load_model!
 
     # Tweet twice daily
-    scheduler.cron '0 10,17 * * * America/Los_Angeles' do
+    scheduler.cron '30 8,20,23 * * * America/Los_Angeles' do
       tweet(model.make_statement)
     end
 

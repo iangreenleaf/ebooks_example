@@ -1,19 +1,20 @@
-# ebooks_example
+# ian_ebooks
 
-As requested, this is the [twitter_ebooks](https://github.com/mispy/twitter_ebooks) app which I use to run most of my own bots. It tweets one guaranteed tweet every 24h, always responds to interactions, and has some small unprompted interaction probability based on keyword matching.
+It's a bot that looks like me.
 
-## Usage
+## Setup
 
 ```bash
-git clone https://github.com/mispy/ebooks_example.git
-cd ebooks_example
 bundle install
 ebooks archive username corpus/username.json
 ebooks consume corpus/username.json
 ```
 
-Populate bots.rb with your auth details, the bot username and model name, then:
+## Deployment ##
 
-`ebooks start`
-
-Also runs as a Heroku app! See the [twitter_ebooks](https://github.com/mispy/twitter_ebooks) README for more information.
+```
+heroku create
+heroku config:push
+git push heroku master
+heroku ps:scale worker=1
+```
